@@ -10,6 +10,7 @@ from localWikiApi.models import Articles
 #     response = json.dumps([{
 #         'code'        : 0,
 #         'message'     : 'No Data',
+#         'test'        : testing'
 #     }])
 #     return HttpResponse(response, content_type='text/json')
 
